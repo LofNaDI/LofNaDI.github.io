@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 | Lab of Natural and Designed Intelligence</title>
-    <link>https://LofNaDI-WIP.github.io/publication-type/6/</link>
-      <atom:link href="https://LofNaDI-WIP.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://LofNaDI.github.io/publication-type/6/</link>
+      <atom:link href="https://LofNaDI.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://LofNaDI-WIP.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_2.png</url>
+      <url>https://LofNaDI.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_3.png</url>
       <title>6</title>
-      <link>https://LofNaDI-WIP.github.io/publication-type/6/</link>
+      <link>https://LofNaDI.github.io/publication-type/6/</link>
     </image>
     
     <item>
       <title>Neuroswarm: a methodology to explore the constraints that function imposes on simulation parameters in large-scale networks of biological neurons</title>
-      <link>https://LofNaDI-WIP.github.io/publication/gomez-cabrero-2016/</link>
+      <link>https://LofNaDI.github.io/publication/gomez-cabrero-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://LofNaDI-WIP.github.io/publication/gomez-cabrero-2016/</guid>
+      <guid>https://LofNaDI.github.io/publication/gomez-cabrero-2016/</guid>
       <description></description>
     </item>
     

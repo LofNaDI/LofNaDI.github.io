@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://LofNaDI-WIP.github.io/sitemap.xml
+Sitemap: https://LofNaDI.github.io/sitemap.xml
