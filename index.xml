@@ -5,7 +5,7 @@
     <link>https://LofNaDI.github.io/</link>
       <atom:link href="https://LofNaDI.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab of Natural and Designed Intelligence</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright Salva Ardid</copyright><lastBuildDate>Fri, 13 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://LofNaDI.github.io/images/icon_hu51bc7776438b23ec3e2baa9fc0ae64dd_101211_512x512_fill_lanczos_center_3.png</url>
       <title>Lab of Natural and Designed Intelligence</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>Limits on the nuclearite flux using the ANTARES neutrino telescope</title>
+      <link>https://LofNaDI.github.io/publication/albert-2023-limits/</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://LofNaDI.github.io/publication/albert-2023-limits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraints on persistent activity in a biologically detailed network model of the prefrontal cortex with heterogeneities</title>
+      <link>https://LofNaDI.github.io/publication/hass-2022-constraints/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://LofNaDI.github.io/publication/hass-2022-constraints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined sensitivity of JUNO and KM3NeT/ORCA to the neutrino mass ordering</title>
+      <link>https://LofNaDI.github.io/publication/aiello-2022-combined/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://LofNaDI.github.io/publication/aiello-2022-combined/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determining the neutrino mass ordering and oscillation parameters with KM3NeT/ORCA</title>
+      <link>https://LofNaDI.github.io/publication/aiello-2022/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://LofNaDI.github.io/publication/aiello-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep learning reconstruction in ANTARES</title>
-      <link>https://LofNaDI.github.io/publication/garcia-mendez-2021/</link>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://LofNaDI.github.io/publication/garcia-mendez-2021/</guid>
+      <link>https://LofNaDI.github.io/publication/garciam-2021-deep/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://LofNaDI.github.io/publication/garciam-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search for Magnetic Monopoles with ten years of the ANTARES neutrino telescope</title>
+      <link>https://LofNaDI.github.io/publication/albert-2022-search/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://LofNaDI.github.io/publication/albert-2022-search/</guid>
       <description></description>
     </item>
     
@@ -29,6 +69,14 @@
     </item>
     
     <item>
+      <title>Implementation and first results of the KM3NeT real-time core-collapse supernova neutrino search</title>
+      <link>https://LofNaDI.github.io/publication/aiello-2022-implementation/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://LofNaDI.github.io/publication/aiello-2022-implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A ML-based direction estimate for ANTARES single-line events</title>
       <link>https://LofNaDI.github.io/project/ml-based-direction-estimate/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -37,6 +85,14 @@
 &lt;p&gt;BBfit single-line reconstruction is, for low energy neutrinos, the most efficient algorithm in ANTARES. This energy range is highly relevant for studying Dark Matter and neutrino oscillations. However, BBfit only provides information about the Zenith angle of the neutrino direction.&lt;/p&gt;
 &lt;p&gt;Our approach is using Machine Learning techniques (Deep Neural Networks) to constrain not only the Zenith but also the Azimuth in single-line events by studying the distribution of photon hits at the photomultiplier tubes.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Sensitivity to light sterile neutrino mixing parameters with KM3NeT/ORCA</title>
+      <link>https://LofNaDI.github.io/publication/km3net-2021/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://LofNaDI.github.io/publication/km3net-2021/</guid>
+      <description></description>
     </item>
     
     <item>
