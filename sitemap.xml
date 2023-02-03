@@ -3,16 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://LofNaDI.github.io/publication-type/2/</loc>
-    <lastmod>2023-01-26T12:52:57+01:00</lastmod>
+    <lastmod>2023-02-03T12:32:07+01:00</lastmod>
+  </url><url>
+    <loc>https://LofNaDI.github.io/publication/lee-2023-functional/</loc>
+    <lastmod>2023-02-03T12:32:07+01:00</lastmod>
   </url><url>
     <loc>https://LofNaDI.github.io/</loc>
-    <lastmod>2023-01-26T12:56:54+01:00</lastmod>
+    <lastmod>2023-02-03T12:32:07+01:00</lastmod>
+  </url><url>
+    <loc>https://LofNaDI.github.io/publication_types/</loc>
+    <lastmod>2023-02-03T12:32:07+01:00</lastmod>
   </url><url>
     <loc>https://LofNaDI.github.io/publication/albert-2023-limits/</loc>
     <lastmod>2023-01-24T13:07:55+01:00</lastmod>
-  </url><url>
-    <loc>https://LofNaDI.github.io/publication_types/</loc>
-    <lastmod>2023-01-26T12:56:54+01:00</lastmod>
   </url><url>
     <loc>https://LofNaDI.github.io/publication/hass-2022-constraints/</loc>
     <lastmod>2023-01-24T13:07:55+01:00</lastmod>
@@ -24,7 +27,7 @@
     <lastmod>2023-01-24T13:07:55+01:00</lastmod>
   </url><url>
     <loc>https://LofNaDI.github.io/publication/garciam-2021-deep/</loc>
-    <lastmod>2023-01-24T13:07:55+01:00</lastmod>
+    <lastmod>2023-02-03T12:32:07+01:00</lastmod>
   </url><url>
     <loc>https://LofNaDI.github.io/publication/albert-2022-search/</loc>
     <lastmod>2023-01-26T11:51:13+01:00</lastmod>
@@ -213,7 +216,7 @@
     <lastmod>2021-10-15T14:20:04+02:00</lastmod>
   </url><url>
     <loc>https://LofNaDI.github.io/authors/</loc>
-    <lastmod>2023-01-24T13:11:42+01:00</lastmod>
+    <lastmod>2023-01-26T13:20:23+01:00</lastmod>
   </url><url>
     <loc>https://LofNaDI.github.io/authors/benjamin/</loc>
     <lastmod>2023-01-18T12:48:35+01:00</lastmod>
@@ -248,6 +251,6 @@
     <lastmod>2021-10-15T14:20:04+02:00</lastmod>
   </url><url>
     <loc>https://LofNaDI.github.io/authors/silvia/</loc>
-    <lastmod>2023-01-24T13:11:42+01:00</lastmod>
+    <lastmod>2023-01-26T13:20:23+01:00</lastmod>
   </url>
 </urlset>
